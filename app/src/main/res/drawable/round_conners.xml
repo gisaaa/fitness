@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:bottom="2dp"
+        android:left="2dp"
+        android:top="2dp"
+        android:right="2dp">
+
+        <shape android:shape="rectangle">
+            <stroke android:color="#4b4848" android:width="1.5dp"/>
+            <solid android:color="@color/colorwhite" />
+        </shape>
+    </item>
+</layer-list>
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<shape xmlns:android="http://schemas.android.com/apk/res/android" >-->
+
+    <!--&lt;!&ndash; we define background color &ndash;&gt;-->
+    <!--<solid android:color="#c0c0c0" />-->
+
+    <!--&lt;!&ndash; we define border color and thick &ndash;&gt;-->
+    <!--<stroke-->
+        <!--android:width="3dp"-->
+        <!--android:color="#000" />-->
+
+    <!--&lt;!&ndash; add some padding for text inside &ndash;&gt;-->
+    <!--<padding-->
+        <!--android:bottom="15dp"-->
+        <!--android:left="15dp"-->
+        <!--android:right="15dp"-->
+        <!--android:top="15dp" />-->
+
+    <!--&lt;!&ndash; we define corner radius, note that radius can be different for each corner &ndash;&gt;-->
+    <!--<corners android:radius="10dp" />-->
+
+<!--</shape>-->
